@@ -9,8 +9,8 @@ This approach enables real-time log collection, improves system monitoring, and 
 
 ## Team Members
 1. Nidhi Mallikarjuna - PES2UG24AM103
-2. Riya Harugop - PES2UG24AM136
-3. Rhea Nair - PES2UG24AM133
+2. Rhea Nair - PES2UG24AM133
+3. Riya Harugop - PES2UG24AM136
 ## GitHub Link
 https://github.com/nidhimallikarjuna/log-aggregation
 ## How to Run
